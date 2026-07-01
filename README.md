@@ -1,4 +1,4 @@
-olução de Machine Learning para classificação de diabetes, desenvolvida como parte do Tech Challenge Fase 1 da Pós Tech FIAP.
+Solução de Machine Learning para classificação de diabetes, desenvolvida como parte do Tech Challenge Fase 1 da Pós Tech FIAP.
 
 **Aluna:** Letícia Monteiro de Freitas  
 **RM:** RM375187  
