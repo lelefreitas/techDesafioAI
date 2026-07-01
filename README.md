@@ -2,7 +2,7 @@ olução de Machine Learning para classificação de diabetes, desenvolvida como
 
 **Aluna:** Letícia Monteiro de Freitas  
 **RM:** RM375187  
-**Repositório:** https://github.com/lelefreitas/techChallengeAI
+**Video:** https://youtu.be/v450gji3sxI
 
 ---
 
